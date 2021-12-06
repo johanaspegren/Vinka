@@ -1,4 +1,5 @@
-package com.example.uploadvideotofirebase2;
+package com.aspegren.vinka;
+
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -24,6 +25,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.VideoView;
 
+import com.aspegren.vinka.R;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DataSnapshot;
@@ -42,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int PICK_VIDEO_REQUEST = 1;
     private static final String TAG = "UPLOAD_VIDEO";
     private static final int ACTION_TAKE_VIDEO = 2;
+    private static final int OTHER = 3;
     private static final String FAMILY = "Arja Nilsson";
 
     private Button selectButton;

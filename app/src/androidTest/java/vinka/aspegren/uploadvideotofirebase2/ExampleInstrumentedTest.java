@@ -1,4 +1,4 @@
-package com.example.uploadvideotofirebase2;
+package vinka.aspegren.uploadvideotofirebase2;
 
 import android.content.Context;
 

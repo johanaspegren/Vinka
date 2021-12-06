@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:603549457938:android:b21e269939bd47127382cb",
+        "android_client_info": {
+          "package_name": "com.aspegren.vinka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603549457938-o3k68ehsb4i2s96losp1lq69q87osaol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlAv8trEUGvVIfNPqNLQYeuVOPkMppECE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603549457938-o3k68ehsb4i2s96losp1lq69q87osaol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:603549457938:android:4cc776d0ffb70b177382cb",
         "android_client_info": {
           "package_name": "com.aspegrenide.familyscreendownloader"
@@ -156,6 +185,64 @@
         "mobilesdk_app_id": "1:603549457938:android:e64896f0956f2eac7382cb",
         "android_client_info": {
           "package_name": "com.aspegrenide.uploadvideob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603549457938-o3k68ehsb4i2s96losp1lq69q87osaol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlAv8trEUGvVIfNPqNLQYeuVOPkMppECE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603549457938-o3k68ehsb4i2s96losp1lq69q87osaol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603549457938:android:5a275f7f63519bf67382cb",
+        "android_client_info": {
+          "package_name": "com.example.downloadvideofromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603549457938-o3k68ehsb4i2s96losp1lq69q87osaol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlAv8trEUGvVIfNPqNLQYeuVOPkMppECE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603549457938-o3k68ehsb4i2s96losp1lq69q87osaol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603549457938:android:581e37aa815b78e27382cb",
+        "android_client_info": {
+          "package_name": "com.example.readdatafromfirebase"
         }
       },
       "oauth_client": [

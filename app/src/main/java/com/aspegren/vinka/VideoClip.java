@@ -1,6 +1,5 @@
-package com.example.uploadvideotofirebase2;
+package com.aspegren.vinka;
 
-import com.google.firebase.storage.StorageReference;
 
 public class VideoClip {
 

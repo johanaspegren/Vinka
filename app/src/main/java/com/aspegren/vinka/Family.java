@@ -1,4 +1,4 @@
-package com.example.uploadvideotofirebase2;
+package com.aspegren.vinka;
 
 import java.util.ArrayList;
 
